@@ -1,0 +1,26 @@
+body {
+    heigth:100%;
+    width:100%;
+    background: white url("images/uiii.jpg") no-repeat;
+    font-color:black;
+
+}
+
+
+
+.half{
+    heigth :100%;
+    width : 100%;
+    background-color:#f4f6f7;
+
+}
+.sidebar{
+    heigth:400px;
+    width :300px;
+    bottom-margin:0px;
+    background-color:#bfc9ca;
+    float: right;
+	display: inline-block;
+
+}
+
